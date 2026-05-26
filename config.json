@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authppdate",
+        "uuid": 10334745,
+        "checksum": "u54wyg"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
